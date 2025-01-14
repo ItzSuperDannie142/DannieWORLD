@@ -4,7 +4,7 @@
             "char_limit": 2500,
             "name_limit": 25,
             "status_limit": 36,
-			"godword": "8749irhtglkjroOIYTURJUG0OQOC09v4n89u89t54:ieourgHUGgu1!058-__47hfGG+_+_89r95ur97468998urijnve8un098nv8HIUEHr8t78fJ87bgfhgtyppo-70-0__-9456fFjGjg_=EU0756!++_-__H",
+			"godword": "12345",
             "runlevel": {
                 "godmode": 0,
                 "youtube": 0,
@@ -62,18 +62,18 @@
 				"default": "random"
 			},
 			"speed": {
-				"max": 275,
-				"min": 125,
+				"max": 1000,
+				"min": 100,
 				"default": "random"
 			},
 			"defaultName": "Anonymous",
 			"defaltStatus": null
 		},
         "private": {
-            "char_limit": 5000,
+            "char_limit": 99999999999999999999999999999999999999999999999999999999,
             "name_limit": 25,
             "status_limit": 36,
-			"godword": "8749irhtglkjroOIYTURJUG0OQOC09v4n89u89t54:ieourgHUGgu1!058-__47hfGG+_+_89r95ur97468998urijnve8un098nv8HIUEHr8t78fJ87bgfhgtyppo-70-0__-9456fFjGjg_=EU0756!++_-__H",
+			"godword": "12345",
             "runlevel": {
                 "godmode": 0,
                 "youtube": 0,
@@ -123,7 +123,7 @@
 				"warn": 3,
                 "nofuckoff": 3
             },
-			"room_max": 10000,
+			"room_max": 10000000,
 			"owner": null,
 			"pitch": {
 				"max": 125,
